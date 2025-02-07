@@ -42,10 +42,10 @@ O amigo secreto é uma aplicação feita para tornar os sorteios de amigos secre
 │   ├── amigo-secreto.png
 │   └── play_circle_outline.png
 │
+├── 📜README.md
 ├── 💻app.js
 ├── 📄index.html
-├── 🎨style.css
-└── 📜README.md
+└── 🎨style.css
 ```
 ## Conclusão
 Este projeto foi um desafio proposto pela Oracle Next Education em parceria com a Alura. Com ele, estou dando meus primeiros passos no mundo da programação. Exercitei o conteúdo ensinado sobre lógica de programação, adquiri novas habilidades e fortaleci meus conhecimentos. Estou animada para continuar nessa jornada e explorar ainda mais o universo da programação.
