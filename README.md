@@ -30,8 +30,12 @@ O amigo secreto é uma aplicação feita para tornar os sorteios de amigos secre
    git clone https://github.com/seu-usuario/amigo-secreto.git
 ```
 2. Abra o arquivo `index.html` no seu navegador.
-3. Adicione o nome dos oarticipantes no campo de entrada e clique em **Adicionar** para incluir na lista de amigos.
+3. Adicione o nome dos participantes no campo de entrada e clique em **Adicionar** para incluir na lista de amigos.
 4. Após adicionar o nome de todos os participantes clique em **Sortear**, assim o nome sorteado será exibido.
+   
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/74217979-e1dc-454f-9231-391ef184b1b3" alt="Descrição do GIF">
+</div>
 
 ## Estrutura do Projeto
 ```bash
